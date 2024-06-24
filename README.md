@@ -95,7 +95,7 @@ After forking this project in `Github`, run these commands:
 
 ```bash
 ## clone this repo to a local directory
-git clone https://github.com/<your-username>/cypress-example-kitchensink.git
+git clone https://github.com/glnb/cypress-example-kitchensink.git
 
 ## cd into the cloned repo
 cd cypress-example-kitchensink
